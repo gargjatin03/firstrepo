@@ -1,4 +1,4 @@
 # firstrepo
 This is my first Git Repository
 <br>
-Author - jatin Garg
+Author - jatin Garg Ji (Bhind Wale)
